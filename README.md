@@ -4,8 +4,8 @@ My background is in the electrical field, but my curiosity led me to discover da
 
 ## 🎯 Professional Interests:
 - Data analysis with Python
-- SQL, relational databases
-- Big Data and cloud storage (Snowflake, Azure)
+- Relational databases
+- Big Data and Cloud storage
 - Data Science and Machine Learning
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
