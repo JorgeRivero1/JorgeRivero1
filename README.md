@@ -23,7 +23,7 @@ My background is in the electrical field, but my curiosity led me to discover da
 - 🔄 Currently transitioning professionally into the fields of Data Analysis and Data Science  
 - 💡 Continuously learning by solving real-world projects every day  
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jorgerivero)](https://linkedin.com/in/jorgerivero)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jorgerivero)](https://linkedin.com/in/jorge-rivero-arranz)
 
 > "Data doesn't lie — it just needs someone who knows how to listen."
 
