@@ -39,3 +39,11 @@ My background is in the electrical field, but my curiosity led me to discover da
 - [EDA del catálogo de Netflix](https://github.com/JorgeRivero1/EDA_Netflix)
 
 
+
+![machine_learning_deep_learning png](https://github.com/user-attachments/assets/1c4d6a25-4a81-4dd2-9046-0bd6f83adce4)
+
+
+- [Análisis de Datos de Flujo de Red con Regresión Logística](https://github.com/JorgeRivero1/Preparacion_analisis_y_evaluacion_de_Datos_de_Flujo_de_Red_con_Regresion_Logistica)
+- [Detección de URLs Maliciosas con Support Vector Machine (SVM)](https://github.com/JorgeRivero1/Deteccion_de_URLs_maliciosas_SVM)
+- [Detección de Malware en Android con Árboles de Decisión y Conjuntos de Árboles](https://github.com/JorgeRivero1/Deteccion_de_Malware_en_Android)
+- [Detección de Transacciones Bancarias Fraudulentas con Redes Neuronales](https://github.com/JorgeRivero1/Deep_Learning_Deteccion_de_transacciones_bancarias_fraudulentas)
