@@ -4,7 +4,7 @@ My background is in the electrical field, but my curiosity led me to discover da
 
 ## 🎯 Professional Interests:
 - Data analysis with Python
-- Relational databases
+- Relational Databases
 - Big Data and Cloud storage
 - Data Science and Machine Learning
 
