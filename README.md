@@ -31,19 +31,28 @@ My background is in the electrical field, but my curiosity led me to discover da
 
 
 
-![eda_picture](https://github.com/user-attachments/assets/2cd48c21-11b3-42ef-b3d3-542b8a54c281)
+![eda_picture](https://github.com/user-attachments/assets/264f3817-7950-4604-90f9-a316bb057114)
 
-
-- [EDA de datos financieros con la API ALPHAVANTAGE](https://github.com/JorgeRivero1/EDA_API_ALPHAVANTAGE)
-- [EDA de datos meterológicos con la API OPEN METEO](https://github.com/JorgeRivero1/EDA_API_open-meteo)
-- [EDA del catálogo de Netflix](https://github.com/JorgeRivero1/EDA_Netflix)
+- [Exploratory Data Analysis (EDA) of Financial Data Using the ALPHAVANTAGE API](https://github.com/JorgeRivero1/EDA_API_ALPHAVANTAGE)
+- [Exploratory Data Analysis (EDA) of Meteorological Data Using the OPEN METEO API](https://github.com/JorgeRivero1/EDA_API_open-meteo)
+- [Exploratory Data Analysis (EDA) of the Netflix Catalog](https://github.com/JorgeRivero1/EDA_Netflix)
 
 
 
 ![machine_learning_deep_learning png](https://github.com/user-attachments/assets/1c4d6a25-4a81-4dd2-9046-0bd6f83adce4)
 
 
-- [Análisis de Datos de Flujo de Red con Regresión Logística](https://github.com/JorgeRivero1/Preparacion_analisis_y_evaluacion_de_Datos_de_Flujo_de_Red_con_Regresion_Logistica)
-- [Detección de URLs Maliciosas con Support Vector Machine (SVM)](https://github.com/JorgeRivero1/Deteccion_de_URLs_maliciosas_SVM)
-- [Detección de Malware en Android con Árboles de Decisión y Conjuntos de Árboles](https://github.com/JorgeRivero1/Deteccion_de_Malware_en_Android)
-- [Detección de Transacciones Bancarias Fraudulentas con Redes Neuronales](https://github.com/JorgeRivero1/Deep_Learning_Deteccion_de_transacciones_bancarias_fraudulentas)
+- [Fraudulent Bank Transaction Detection Using Neural Networks](https://github.com/JorgeRivero1/Deep_Learning_Deteccion_de_transacciones_bancarias_fraudulentas)
+- [Malicious URL Detection Using Support Vector Machine (SVM)](https://github.com/JorgeRivero1/Deteccion_de_URLs_maliciosas_SVM)
+- [Network Traffic Data Analysis Using Logistic Regression](https://github.com/JorgeRivero1/Preparacion_analisis_y_evaluacion_de_Datos_de_Flujo_de_Red_con_Regresion_Logistica)
+- [Android Malware Detection Using Decision Trees and Ensemble Methods](https://github.com/JorgeRivero1/Deteccion_de_Malware_en_Android)
+
+
+
+![mysqandlpandas](https://github.com/user-attachments/assets/8238024d-9d0c-4c0b-9551-44e61c54556b)
+
+
+- [MySQL Exercises: Querying Data](https://github.com/JorgeRivero1/MySQL_Queries_Intermediate)
+- [SQL Practice - Gardening Company](https://github.com/JorgeRivero1/SQL_Queries)
+- [Pandas Exercises: Querying Data](https://github.com/JorgeRivero1/Pandas_Queries)
+
