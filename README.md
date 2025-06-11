@@ -31,4 +31,11 @@ My background is in the electrical field, but my curiosity led me to discover da
 
 
 
+![eda_picture](https://github.com/user-attachments/assets/2cd48c21-11b3-42ef-b3d3-542b8a54c281)
+
+
+- [EDA de datos financieros con la API ALPHAVANTAGE](https://github.com/JorgeRivero1/EDA_API_ALPHAVANTAGE)
+- [EDA de datos meterológicos con la API OPEN METEO](https://github.com/JorgeRivero1/EDA_API_open-meteo)
+- [EDA del catálogo de Netflix](https://github.com/JorgeRivero1/EDA_Netflix)
+
 
