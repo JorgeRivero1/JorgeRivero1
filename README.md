@@ -39,7 +39,9 @@ My background is in the electrical field, but my curiosity led me to discover da
 
 
 
-![machine_learning_deep_learning png](https://github.com/user-attachments/assets/1c4d6a25-4a81-4dd2-9046-0bd6f83adce4)
+
+![machinedeeplearning](https://github.com/user-attachments/assets/807ce415-beb4-403e-abd8-0f5653dfff22)
+
 
 
 - [Fraudulent Bank Transaction Detection Using Neural Networks](https://github.com/JorgeRivero1/Deep_Learning_Deteccion_de_transacciones_bancarias_fraudulentas)
