@@ -25,7 +25,7 @@ My background is in the electrical field, but my curiosity led me to discover da
 ## 🧠 About Me
 - 🎓 Technical Degree in Electrical and Automated Systems + International Trade  
 - 📚 Lifelong learner of Data Analysis, SQL, Machine Learning, and Cloud Technologies  
-- 🔄 Currently transitioning professionally into the fields of Data Analysis and Data Science  
+- 🔄 Currently transitioning professionally into the world of data  
 - 💡 Continuously learning by solving real-world projects every day  
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jorgerivero)](https://linkedin.com/in/jorge-rivero-arranz)
