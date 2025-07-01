@@ -7,6 +7,7 @@ My background is in the electrical field, but my curiosity led me to discover da
 - Relational Databases
 - Big Data and Cloud storage
 - Data Science and Machine Learning
+- Electronics and Industrial Automation
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
