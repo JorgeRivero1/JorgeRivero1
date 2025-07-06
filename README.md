@@ -56,7 +56,7 @@ My background is in the electrical field, but my curiosity led me to discover da
 
 ![IA_CHIP](https://github.com/user-attachments/assets/3a451fba-f446-45e0-9638-ff3d2443115e)
 
-- [AI Voice Translator](https://github.com/JorgeRivero1/AI_Voice_Translator)
+- [Multilingual Voice Translator Using Generative AI](https://github.com/JorgeRivero1/AI_Voice_Translator)
 
 
 
